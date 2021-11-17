@@ -1,0 +1,70 @@
+leftnav:
+- identifier: 7e947eb5-5839-b762-3014-fcc970d828ba
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: c25f4b55-e75d-e013-5f68-2df03191c17b
+  name: Introduction
+  url: /pages/introduction
+  weight: 20
+- identifier: e410ee8b-8700-9b71-186a-43313ae400a9
+  name: Life & Teaching of Daniel Kan
+  url: /pages/life-teaching-of-daniel-kan
+  weight: 30
+- identifier: 9d92aa27-87e4-b9bb-4548-23a87d5108cd
+  name: Logistics
+  url: /pages/logistics
+  weight: 40
+- identifier: 81414d90-455e-4895-8c60-4619d3435206
+  name: Reading List
+  url: /pages/reading-list/
+  weight: 50
+- identifier: a3a6421f-1de8-eb50-65ee-09b6c562348f
+  name: List of Possible Papers
+  parent: 81414d90-455e-4895-8c60-4619d3435206
+  url: /pages/reading-list/list-of-possible-papers
+  weight: 60
+- identifier: fc96e482-7599-f476-6eb9-00051529f573
+  name: Practice Talks
+  url: /pages/practice-talks
+  weight: 70
+- identifier: ef5131cf-b17c-8b4d-229a-f8c08f7b000d
+  name: Math Talks
+  url: /pages/math-talks
+  weight: 80
+- identifier: 899f2197-c7ea-c802-0575-c9260bd4088f
+  name: Feedback after Talks
+  url: /pages/feedback-after-talks
+  weight: 90
+- identifier: 674cd4bf-8f3b-2929-b29c-0e8c85131638
+  name: Reading Responses
+  url: /pages/reading-responses/
+  weight: 100
+- identifier: f099e4bc-dad3-1d7f-c8c6-e204a63f8de1
+  name: September
+  parent: 674cd4bf-8f3b-2929-b29c-0e8c85131638
+  url: /pages/reading-responses/september
+  weight: 110
+- identifier: d0479656-3929-d8a6-3926-9c8f2cfc2dc2
+  name: October
+  parent: 674cd4bf-8f3b-2929-b29c-0e8c85131638
+  url: /pages/reading-responses/october
+  weight: 120
+- identifier: aa152035-7b70-e793-c276-5f01114c13a3
+  name: November
+  parent: 674cd4bf-8f3b-2929-b29c-0e8c85131638
+  url: /pages/reading-responses/november
+  weight: 130
+- identifier: 05c5b320-a3a6-ddc6-f077-703b8e112473
+  name: December
+  parent: 674cd4bf-8f3b-2929-b29c-0e8c85131638
+  url: /pages/reading-responses/december
+  weight: 140
+- identifier: 52b3c476-57a9-e63d-97e9-01bd861cf4f3
+  name: Rewards for Educators
+  url: /pages/rewards-for-educators
+  weight: 150
+- identifier: 0a06dded-81cd-9f78-9117-ddcf5a0dfeb8
+  name: Kan Seminars Beyond MIT
+  url: /pages/kan-seminars-beyond-mit
+  weight: 160
